@@ -61,6 +61,7 @@ img {
 .buttom_container .links ul {
     display: flex;
     gap: 2rem;
+    list-style: none;
 }
 
 .buttom_container .links ul li img {
